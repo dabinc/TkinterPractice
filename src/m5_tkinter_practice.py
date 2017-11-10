@@ -41,7 +41,7 @@ def main():
     say_hello_button['command'] = (lambda:
                                      print("Hello"))
     # ------------------------------------------------------------------
-    # TODO: 6. After reading and understanding the m4e module,
+    # T ODO: 6. After reading and understanding the m4e module,
     #   -- Put an Entry box on the Frame.
     #   -- Put a second Button on the Frame.
     #   -- Make this new Button, when pressed, print "Hello"
@@ -56,7 +56,7 @@ def main():
     hello_goodbye_button.grid()
 
     # ------------------------------------------------------------------
-    # TODO: 7.
+    # TO DO: 7.
     #    -- Put a second Entry on the Frame.
     #    -- Put a third Button on the frame.
     #    -- Make this new Button respond to a button-press as follows:
@@ -81,7 +81,7 @@ def main():
 
     root.mainloop()
     # ------------------------------------------------------------------
-    # TODO: 8. As time permits, do other interesting GUI things!
+    # TOD O: 8. As time permits, do other interesting GUI things!
     # ------------------------------------------------------------------
 def print_hello():
     """This is my simple function."""
